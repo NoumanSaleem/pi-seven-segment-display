@@ -1,5 +1,4 @@
 import time
-from functools import partial
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BCM)
